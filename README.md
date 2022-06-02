@@ -25,9 +25,11 @@
 
 
 <div align="center">
+  
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonwilame&layout=compact&langs_count=7&theme=tokyonight"/>
   <a href="https://github.com/jhonwilame">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhonwilame&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonwilame&theme=tokyonight&hide_border=false&&layout=compact"/>
+    
   </a>
 </div>
 
