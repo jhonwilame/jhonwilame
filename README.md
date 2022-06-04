@@ -6,7 +6,7 @@
   
 
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jhonwilame/"><i>Jhon Wilame</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jhon-wilame-57a3801a6/"><i>Jhon Wilame</i></a> 😃️</h1>
   <p align="center">Estudo Cloud na <a href="https://thecloudbootcamp.com/pt/pv-multicloud-621/"><i>TCB</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UC3PXHEWanamGxMoIwENmwzw"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UC3PXHEWanamGxMoIwENmwzw" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
