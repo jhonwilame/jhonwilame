@@ -8,8 +8,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jhon-wilame-57a3801a6/"><i>Jhon Wilame</i></a> 😃️</h1>
 
-  <a align="rigth"  href="https://www.youtube.com/channel/UC3PXHEWanamGxMoIwENmwzw" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+ src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
 
 </div>
