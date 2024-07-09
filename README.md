@@ -8,7 +8,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jhon-wilame-57a3801a6/"><i>Jhon Wilame</i></a> 😃️</h1>
 
- src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  "  />
+  "  />
   </a><br>
 
 </div>
