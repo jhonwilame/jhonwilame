@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  src="https://media.discordapp.net/attachments/981210140135018529/981213187506581504/ReadyPlayerMe-Avatar.png?width=485&height=485">
+
   
 
 <div>
