@@ -2,7 +2,7 @@
 
 <p align="center">
   
-   <img align="center" alt="Jhon-FT" height="300" style="border-radius:80px;" src="https://media.discordapp.net/attachments/981210140135018529/981213187506581504/ReadyPlayerMe-Avatar.png?width=485&height=485">
+  src="https://media.discordapp.net/attachments/981210140135018529/981213187506581504/ReadyPlayerMe-Avatar.png?width=485&height=485">
   
 
 <div>
