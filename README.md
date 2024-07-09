@@ -8,7 +8,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jhon-wilame-57a3801a6/"><i>Jhon Wilame</i></a> 😃️</h1>
 
-  "  />
   </a><br>
 
 </div>
