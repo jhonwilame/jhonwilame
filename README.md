@@ -14,9 +14,11 @@ Beyond the technical aspects, I'm also driven by:
 
 💡 A thirst for new challenges and learning experiences
 🤝 A desire to give back to the community and inspire others
+
 Want to connect?
 
  ✉️ : wilamejhon@gmail.com 
+
  💼 : https://www.linkedin.com/in/jhon-wilame/
 
 P.S. In my free time, you might find me exploring the great outdoors or jamming to some tunes. 🎸🏕️
