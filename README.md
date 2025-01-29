@@ -13,7 +13,8 @@ Beyond the technical aspects, I'm also driven by:
 🤝 A desire to give back to the community and inspire others
 Want to connect?
 
-Feel free to shoot me an email at ✉️ : wilamejhon@gmail.com or find me on LinkedIn 💼 : https://www.linkedin.com/in/jhon-wilame/
+ ✉️ : wilamejhon@gmail.com 
+ 💼 : https://www.linkedin.com/in/jhon-wilame/
 
 P.S. In my free time, you might find me exploring the great outdoors or jamming to some tunes. 🎸🏕️
 
