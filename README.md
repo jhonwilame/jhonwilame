@@ -1,3 +1,22 @@
+Greetings, fellow tech enthusiasts! 👋✈️
+
+I'm Jhon Wilame, a DevOps Engineer with a head in the clouds (☁️) and a passion for building awesome things.  When I'm not glued to anything airplane-related (🤫), I'm automating workflows, wrangling servers, and diving deep into the world of Kubernetes.
+
+My current adventures include:
+
+🚀 Contributing to open-source projects
+📚 Exploring the ever-evolving landscape of DevOps, GitOps, and DevSecOps
+🏆 Conquering the realm of Kubernetes (K8s)
+Beyond the technical aspects, I'm also driven by:
+
+💡 A thirst for new challenges and learning experiences
+🤝 A desire to give back to the community and inspire others
+Want to connect?
+
+Feel free to shoot me an email at ✉️ : wilamejhon@gmail.com or find me on LinkedIn 💼 : https://www.linkedin.com/in/jhon-wilame/
+
+P.S. In my free time, you might find me exploring the great outdoors or jamming to some tunes. 🎸🏕️
+
 
 
 
