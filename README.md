@@ -5,8 +5,11 @@ I'm Jhon Wilame, a DevOps Engineer with a head in the clouds (☁️) and a pass
 My current adventures include:
 
 🚀 Contributing to open-source projects
+
 📚 Exploring the ever-evolving landscape of DevOps, GitOps, and DevSecOps
+
 🏆 Conquering the realm of Kubernetes (K8s)
+
 Beyond the technical aspects, I'm also driven by:
 
 💡 A thirst for new challenges and learning experiences
